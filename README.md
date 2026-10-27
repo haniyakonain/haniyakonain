@@ -4,12 +4,11 @@
   <a href="https://haniyakonain.github.io/haniya-konain-portfolio/"><img src="https://img.shields.io/badge/Portfolio-FFC0CB?style=for-the-badge&logo=googlechrome&logoColor=4a2531&labelColor=FFC0CB&color=FFC0CB" alt="Portfolio"></a>
   <a href="https://www.linkedin.com/in/haniya-konain-210882251"><img src="https://img.shields.io/badge/LinkedIn-FFC0CB?style=for-the-badge&logo=linkedin&logoColor=4a2531" alt="LinkedIn"></a>
   <a href="mailto:haniyakonain94@gmail.com"><img src="https://img.shields.io/badge/Email-FFC0CB?style=for-the-badge&logo=gmail&logoColor=4a2531" alt="Email"></a>
-  <a href="https://github.com/haniyakonain/gsoc-2025-dbpedia-final-report"><img src="https://img.shields.io/badge/GSoC%202025%20%C2%B7%20DBpedia-FFC0CB?style=for-the-badge&logo=google&logoColor=4a2531" alt="Google Summer of Code 2025 at DBpedia"></a>
 </p>
 
 ### Hi, I'm Haniya 🌸
 
-- 🎓 B.Tech in Artificial Intelligence & Data Science (CGPA 8.07), Hyderabad
+- 🎓 B.Tech in Artificial Intelligence & Data Science (CGPA 8.07)
 - 🛠️ **Google Summer of Code 2025** contributor and **DBpedia Extraction Framework** intern: fixed geo-coordinate and date-mapping bugs in a large Scala pipeline, correcting 10,000+ Wikipedia records and cutting processing overhead by ~40%
 - 🤖 Currently at **Handshake AI**, building repository-level tasks and test suites that evaluate AI coding agents
 - 🐧 Linux user, happiest in the terminal
@@ -40,7 +39,6 @@
 <p>
   <img src="https://img.shields.io/badge/%F0%9F%A6%88%20Pull%20Shark%20%C3%972-FFC0CB?style=for-the-badge" alt="GitHub achievement: Pull Shark x2">
   <img src="https://img.shields.io/badge/%E2%9A%A1%20Quickdraw-FFC0CB?style=for-the-badge" alt="GitHub achievement: Quickdraw">
-  <img src="https://img.shields.io/badge/%E2%98%80%EF%B8%8F%20Google%20Summer%20of%20Code%202025-FFC0CB?style=for-the-badge" alt="Google Summer of Code 2025 contributor">
 </p>
 <p>
   <img src="https://img.shields.io/badge/%F0%9F%A5%87%20Top%2015%20of%20642%20teams%20%C2%B7%20Datanyx%20Hackathon-FFC0CB?style=for-the-badge" alt="Top 15 of 642 teams at Datanyx Hackathon">
@@ -56,7 +54,6 @@
 | **[Multiple Cancer Classifier](https://github.com/haniyakonain/multiple-types-of-cancer-mini-project)** | Fine-tuned VGG19 that classifies brain, breast, cervical and lung scans, with a "Not a Scan" class | [Demo](https://multiple-types-of-cancer.onrender.com/) |
 | **[EcoAyur](https://github.com/haniyakonain/ecoayur)** | Herbal remedy recommender: scraped data, Random Forest (85% accuracy), Flask + React. Top 15 of 642 at Datanyx | [Demo](https://ecoayur.vercel.app) |
 | **[CinePix](https://github.com/haniyakonain/cinepix)** | Movie showtimes and ticket booking site built in 24 hours. Top 16 of 140 at Stanley Code-a-Thon | [Demo](https://cinepix-five.vercel.app/) |
-| **[Portfolio](https://github.com/haniyakonain/haniya-konain-portfolio)** | My one-page portfolio and resumes | [Visit](https://haniyakonain.github.io/haniya-konain-portfolio/) |
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=FFC0CB&height=90&section=footer" width="100%" alt="">
