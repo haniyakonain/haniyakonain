@@ -4,7 +4,7 @@
   <a href="https://haniyakonain.github.io/haniya-konain-portfolio/"><img src="https://img.shields.io/badge/Portfolio-FFC0CB?style=for-the-badge&logo=googlechrome&logoColor=4a2531&labelColor=FFC0CB&color=FFC0CB" alt="Portfolio"></a>
   <a href="https://www.linkedin.com/in/haniya-konain-210882251"><img src="https://img.shields.io/badge/LinkedIn-FFC0CB?style=for-the-badge&logo=linkedin&logoColor=4a2531" alt="LinkedIn"></a>
   <a href="mailto:haniyakonain94@gmail.com"><img src="https://img.shields.io/badge/Email-FFC0CB?style=for-the-badge&logo=gmail&logoColor=4a2531" alt="Email"></a>
-  <a href="https://github.com/haniyakonain/gsoc-2025-dbpedia-final-report"><img src="https://img.shields.io/badge/GSoC%202025-DBpedia-FFC0CB?style=for-the-badge&logo=google&logoColor=4a2531&labelColor=FFE4E9" alt="Google Summer of Code 2025 at DBpedia"></a>
+  <a href="https://github.com/haniyakonain/gsoc-2025-dbpedia-final-report"><img src="https://img.shields.io/badge/GSoC%202025%20%C2%B7%20DBpedia-FFC0CB?style=for-the-badge&logo=google&logoColor=4a2531" alt="Google Summer of Code 2025 at DBpedia"></a>
 </p>
 
 ### Hi, I'm Haniya 🌸
@@ -22,7 +22,7 @@
   <img src="https://img.shields.io/badge/Git-FFC0CB?style=for-the-badge&logo=git&logoColor=4a2531" alt="Git">
   <img src="https://img.shields.io/badge/GitHub-FFC0CB?style=for-the-badge&logo=github&logoColor=4a2531" alt="GitHub">
   <img src="https://img.shields.io/badge/Bash-FFC0CB?style=for-the-badge&logo=gnubash&logoColor=4a2531" alt="Bash">
-  <img src="https://img.shields.io/badge/CI%2FCD-GitHub%20Actions-FFC0CB?style=for-the-badge&logo=githubactions&logoColor=4a2531&labelColor=FFE4E9" alt="CI/CD with GitHub Actions">
+  <img src="https://img.shields.io/badge/CI%2FCD%20(GitHub%20Actions)-FFC0CB?style=for-the-badge&logo=githubactions&logoColor=4a2531" alt="CI/CD with GitHub Actions">
 </p>
 
 **Also worked with:**
@@ -34,6 +34,18 @@
 <img src="https://img.shields.io/badge/scikit--learn-FFE4E9?style=flat-square&logo=scikitlearn&logoColor=4a2531" alt="scikit-learn">
 <img src="https://img.shields.io/badge/Postman-FFE4E9?style=flat-square&logo=postman&logoColor=4a2531" alt="Postman">
 <img src="https://img.shields.io/badge/Vercel-FFE4E9?style=flat-square&logo=vercel&logoColor=4a2531" alt="Vercel">
+
+### Achievements 🏆
+
+<p>
+  <img src="https://img.shields.io/badge/%F0%9F%A6%88%20Pull%20Shark%20%C3%972-FFC0CB?style=for-the-badge" alt="GitHub achievement: Pull Shark x2">
+  <img src="https://img.shields.io/badge/%E2%9A%A1%20Quickdraw-FFC0CB?style=for-the-badge" alt="GitHub achievement: Quickdraw">
+  <img src="https://img.shields.io/badge/%E2%98%80%EF%B8%8F%20Google%20Summer%20of%20Code%202025-FFC0CB?style=for-the-badge" alt="Google Summer of Code 2025 contributor">
+</p>
+<p>
+  <img src="https://img.shields.io/badge/%F0%9F%A5%87%20Top%2015%20of%20642%20teams%20%C2%B7%20Datanyx%20Hackathon-FFC0CB?style=for-the-badge" alt="Top 15 of 642 teams at Datanyx Hackathon">
+  <img src="https://img.shields.io/badge/%F0%9F%8F%85%20Top%2016%20of%20140%20%C2%B7%20Stanley%20Code--a--Thon-FFC0CB?style=for-the-badge" alt="Top 16 of 140 at Stanley Code-a-Thon">
+</p>
 
 ### Featured work
 
